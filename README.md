@@ -28,10 +28,10 @@ I'm a Full-Stack Developer and DevOps enthusiast based in Turin, Italy. As a lea
 - **GitLab:** [siinghd](https://gitlab.com/siinghd)
 - **GitHub:** [siinghd](https://github.com/siinghd)
 - **StackOverflow:** [singh](https://stackoverflow.com/users/9386720/singh)
-- **AWS Certification:** [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/verification)
+- **AWS Certification:** [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/verification) (98TRWW72VFQ1QP5G)
 - **FormGo:** [ReactJS Form Library](https://www.npmjs.com/package/formgo)
 
 ## 📫 Get in touch
 
 - Email: h.singh8149@gmail.com
-- Phone: +39 346-287-8149
+- Phone: +39 346-287-8149 | +1 4845429368 (US)
