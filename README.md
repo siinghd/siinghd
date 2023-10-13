@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello, I'm Harpreet Singh! 👋
 
-<!--
-**siinghd/siinghd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer and DevOps enthusiast based in Turin, Italy. As a leader of a team of developers, I ensure high code quality and smooth coding experiences. My role allows me to guide my team in exploring and adopting new technologies for our projects. I'm always driven by my curiosity and passion for learning to constantly expand my skill set.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C, Java, Go, JavaScript, Rust, Lua
+- **Web Technologies:** Proficient in most JavaScript frameworks and libraries
+- **Mobile Development:** React Native
+- **Databases:** NoSQL and Relational databases
+- **DevOps Tools:** AWS, Terraform, Pulumi, Ansible, Docker, CI/CD pipelines, Grafana, Prometheus, Nginx
+- **Version Control and Operating Systems:** Git / GitHub / GitLab, Linux server environment
+- **Backend Operations:** Developing complex APIs (with NodeJs), server provisioning, and microservices orchestration
+
+## 🌱 Current Learning Goals
+
+- Furthering my expertise in DevOps practices and tools
+- Exploring new programming paradigms and languages
+- Master Rust
+- Solve more DSA
+
+## 📈 GitHub Stats
+
+![Harpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siinghd&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+
+## 🔗 Links
+
+- **GitLab:** [siinghd](https://gitlab.com/siinghd)
+- **GitHub:** [siinghd](https://github.com/siinghd)
+- **StackOverflow:** [singh](https://stackoverflow.com/users/9386720/singh)
+- **AWS Certification:** [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/verification)
+- **FormGo:** [ReactJS Form Library](https://www.npmjs.com/package/formgo)
+
+## 📫 Get in touch
+
+- Email: h.singh8149@gmail.com
+- Phone: +39 346-287-8149
