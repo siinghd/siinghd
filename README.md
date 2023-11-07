@@ -4,7 +4,7 @@ I'm a Full-Stack Developer and DevOps enthusiast based in Turin, Italy. As a lea
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C, Java, Go, JavaScript, Rust, Lua
+- **Languages:** Python, C, Java, Go Lang, JavaScript, Lua
 - **Web Technologies:** Proficient in most JavaScript frameworks and libraries
 - **Mobile Development:** React Native
 - **Databases:** NoSQL and Relational databases
