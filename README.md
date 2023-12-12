@@ -34,4 +34,4 @@ I'm a Full-Stack Developer and DevOps enthusiast based in Turin, Italy. As a lea
 ## 📫 Get in touch
 
 - Email: h.singh8149@gmail.com
-- Phone: +39 346-287-8149 | +1 4845429368 (US)
+
