@@ -1,4 +1,4 @@
-# Hello, I'm Harpreet Singh! 👋
+# Hello, I'm Harpreet Singh! 👋 ![](https://komarev.com/ghpvc/?username=siinghd)
 
 I'm a Full-Stack Developer and DevOps enthusiast based in Turin, Italy. As a leader of a team of developers, I ensure high code quality and smooth coding experiences. My role allows me to guide my team in exploring and adopting new technologies for our projects. I'm always driven by my curiosity and passion for learning to constantly expand my skill set.
 
