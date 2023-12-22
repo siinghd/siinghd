@@ -22,7 +22,7 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 ## 📈 GitHub Stats
 
-![Harpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siinghd&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+![Harpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siinghd&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 🔗 Links
 
