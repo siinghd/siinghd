@@ -1,17 +1,19 @@
-# Hello, I'm Harpreet Singh! 👋 ![](https://komarev.com/ghpvc/?username=siinghd)
+hi# Hello, I'm Harpreet Singh! 👋 ![](https://komarev.com/ghpvc/?username=siinghd)
 
 
 I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C, Java, Go Lang, JavaScript, Lua
-- **Web Technologies:** Proficient in most JavaScript frameworks and libraries
-- **Mobile Development:** React Native
-- **Databases:** NoSQL and Relational databases
+- **Programming/Scripting Languages worked with:** Python, C, Java, Go lang, JavaScript
+- **Frontend Development:** Experienced in React.js (4+ years), Vue.js, Next.js (3+ years), and Astro
+- **Backend Development:** Proficient in Node.js (4+ years), Go lang (2+ years), and Java
+- **Mobile Development:** Experienced in React Native
+- **Databases:** Proficient with NoSQL and Relational databases, including MongoDB/DocumentDB, DynamoDB, PostgreSQL, and MySQL
 - **DevOps Tools:** AWS, Terraform, Pulumi, Ansible, Docker, CI/CD pipelines, Grafana, Prometheus, Nginx
 - **Version Control and Operating Systems:** Git / GitHub / GitLab, Linux server environment
-- **Backend Operations:** Developing complex APIs (with NodeJs), server provisioning, and microservices orchestration
+- **Team Leadership:** Experienced in guiding teams and assisting colleagues in project implementation
+- **Backend Operations:** Proficient in developing complex APIs, server provisioning, and microservices orchestration. Familiar with messaging and caching solutions like Redis, RabbitMQ, and Kafka.
 
 ## 🌱 Current Learning Goals
 
