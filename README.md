@@ -5,15 +5,7 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 ## 🛠️ Technologies & Tools
 
-- **Programming/Scripting Languages worked with:** Python, C, Java, Go lang, JavaScript
-- **Frontend Development:** Experienced in React.js (4+ years), Vue.js, Next.js (3+ years), and Astro
-- **Backend Development:** Proficient in Node.js (4+ years), Go lang (2+ years), and Java
-- **Mobile Development:** Experienced in React Native
-- **Databases:** Proficient with NoSQL and Relational databases, including MongoDB/DocumentDB, DynamoDB, PostgreSQL, and MySQL
-- **DevOps Tools:** AWS, Terraform, Pulumi, Ansible, Docker, CI/CD pipelines, Grafana, Prometheus, Nginx
-- **Version Control and Operating Systems:** Git / GitHub / GitLab, Linux server environment
-- **Team Leadership:** Experienced in guiding teams and assisting colleagues in project implementation
-- **Backend Operations:** Proficient in developing complex APIs, server provisioning, and microservices orchestration. Familiar with messaging and caching solutions like Redis, RabbitMQ, and Kafka.
+- Depends on the project, can adapt quickly
 
 ## 🌱 Current Learning Goals
 
