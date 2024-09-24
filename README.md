@@ -1,3 +1,4 @@
+![](https://tenor.com/bSP55.gif)
 hi# Hello, I'm Harpreet Singh! 👋 ![](https://komarev.com/ghpvc/?username=siinghd)
 
 
