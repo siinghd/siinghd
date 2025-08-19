@@ -1,23 +1,7 @@
 ![](https://tenor.com/bSP55.gif)
 hi# Hello, I'm Harpreet Singh! 👋 ![](https://komarev.com/ghpvc/?username=siinghd)
 
-
-I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
-
-## 🛠️ Technologies & Tools
-
-- Depends on the project, can adapt quickly
-
-## 🌱 Current Learning Goals
-
-- Furthering my expertise in DevOps practices and tools
-- Exploring new programming paradigms and languages
-- Master Rust
-- Solve more DSA
-
-## 📈 GitHub Stats
-
-![Harpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siinghd&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+I'm a Software engineer
 
 ## 🔗 Links
 
